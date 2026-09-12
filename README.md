@@ -1,4 +1,4 @@
-# ⚡ ElectroTrack - Real-time Inventory Management System
+# ⚡ ElectroTrack: Real-Time Inventory Management System
 
 A NoSQL-based corporate data solution designed for an online electronics retailer. This application provides real-time product catalog and inventory tracking using the MERN stack.
 
